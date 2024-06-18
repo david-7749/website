@@ -1,2 +1,2 @@
 # website
-personal website
+personal website -- yup, that's it
